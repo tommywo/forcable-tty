@@ -15,12 +15,12 @@
     "tty.js"
   ],
   "devDependencies": {
-    "chai": "^4.2.0",
-    "coffee-script": "^1.12.7",
-    "mocha": "^6.2.2",
-    "sinon": "^7.5.0",
-    "sinon-chai": "^3.3.0",
-    "standard-version": "^7.0.1"
+    "chai": "4.2.0",
+    "coffee-script": "1.12.7",
+    "mocha": "6.2.2",
+    "sinon": "7.5.0",
+    "sinon-chai": "3.3.0",
+    "standard-version": "7.0.1"
   },
   "dependencies": {
     "term-size": "^2.1.0"
