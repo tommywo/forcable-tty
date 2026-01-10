@@ -23,6 +23,6 @@
     "standard-version": "^9.0.0"
   },
   "dependencies": {
-    "term-size": "^3.0.0"
+    "term-size": "^4.0.0"
   }
 }
